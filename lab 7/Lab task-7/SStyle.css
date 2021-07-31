@@ -1,0 +1,165 @@
+.form_holder{
+    height: 90vh;
+    width: 100vw;
+} 
+.login_form{
+  
+    width: 450px;
+    background-color: #334d4df5;
+    border-radius: 18px;
+    box-shadow: 0 0 10px 4px rgba(128, 128, 128, 0.479);
+    color:white;
+  }
+
+  #forgotPassword
+  {
+    list-style-type: none;
+    margin-left:35px;
+    height: -10px;
+  }
+  #fPassword
+  {
+    display: inline;
+  }
+  #sUp
+  {
+    display: inline;
+  }
+  #fpref
+  {
+    color: white;
+    font-size:20px;
+    text-decoration:none;
+    padding: 2px;
+  }
+
+  #suref
+  {
+    color: white;
+    font-size:20px;
+    text-decoration:none;
+    padding: 2px;
+  }
+  #fpref:hover
+  {
+    color:#000d1a;
+  }
+   #suref:hover
+  {
+    color:#000d1a;
+  }
+
+  .form_holder1{
+    height: 40%;
+    width: 100%;
+
+} 
+
+
+
+
+
+
+
+  /* registration start........................................ */
+.registration_form
+{
+  
+  background-color: #334d4df5;
+    border-radius: 18px;
+    box-shadow: 0 0 10px 4px rgba(128, 128, 128, 0.479);
+    color:white;
+    
+  }
+
+ 
+
+ 
+  
+
+
+  
+
+  /* home form start........................ */
+  .form_holder3
+  {
+
+    height: 30vw;
+    width: 100vw;
+
+  }
+  .Home_form
+  {
+
+    width: 350px;
+    background-color: #334d4df5;
+    border-radius: 18px;
+    box-shadow: 0 0 10px 4px rgba(128, 128, 128, 0.479);
+    color:white;
+    
+
+  }
+
+  
+ 
+  .nav-item2
+  {
+    text-align: center;
+    background-color: rgba(138, 140, 170, 0.377);
+    
+  }
+
+  .nav-link2
+  {
+    color: rgb(190, 10, 10);
+  } 
+  
+  .nav-item3
+  {
+    background-color: rgba(255, 255, 255, 0.192);
+    text-align: center;
+  }
+
+  .nav-link3
+  {
+    color: white;
+
+  }
+
+  #headding4
+{
+  text-align: center;
+}
+
+.headline
+{
+  height: auto;
+}
+
+
+
+
+
+
+
+/* Search form start................ */
+.Search_form
+{
+  width: 450px;
+  background-color: #334d4df5;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 4px rgba(128, 128, 128, 0.479);
+  color:white;
+}
+
+.Search_holder1
+{
+  height: 90vh;
+  width: 100vw; 
+}
+
+
+
+  
+  
+ 

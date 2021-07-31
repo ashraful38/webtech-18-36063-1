@@ -1,0 +1,158 @@
+.registration
+{
+    background-color:#334d4d;
+    width: 375px;
+    height: 520px;
+    border-radius: 35px;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px; 
+}
+
+
+
+h2
+{   
+
+    text-align: center;
+    color: white;
+    
+    
+   
+    
+
+
+}
+#RLusername
+       {
+       
+       color: white;
+       font-size: 18px;
+       margin-left: 40px;
+
+       }
+       #RIusername[type=text]
+       {
+       
+       height: 30px;
+       width: 290px;
+       margin-left: 40px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+
+       #RLpassword
+       {
+       
+       color: white;
+       font-size: 18px;
+       margin-left: 42px;
+
+       }
+       #RIpassword[type=password]
+       {
+       
+       height: 30px;
+       width: 290px;
+       margin-left: 39px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+
+       #CRLpassword
+       {
+       
+       color: white;
+       font-size: 18px;
+       margin-left: 40px;
+
+       }
+       #CRIpassword[type=password]
+       {
+       
+       height: 30px;
+       width: 290px;
+       margin-left: 40px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+
+       #ERLpassword
+       {
+       
+       color: white;
+       font-size: 18px;
+       margin-left: 40px;
+
+       }
+       #ERIpassword[type=text]
+       {
+       
+       height: 30px;
+       width: 290px;
+       margin-left: 40px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+
+       #PRLpassword
+       {
+       
+       color: white;
+       font-size: 18px;
+       margin-left: 40px;
+
+       }
+       #PRIpassword[type=text]
+       {
+       
+       height: 30px;
+       width: 290px;
+       margin-left: 40px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+       #RLRadio
+       {
+           color: white;
+           font-size: 18px;
+           margin-left: 40px;
+       }
+       #RLRadio1,#RLRadio2,#RLRadio3
+       {
+        color: white;
+
+       }
+       #RLRadioType
+       {
+        color: white;
+        font-size: 18px;
+        margin-left: 40px;
+
+       }
+       #RLRadioType1,#RLRadioType2,#RLRadioType3
+       {
+        color: white;
+
+       }
+       #Rsubmit[type=submit]
+       {
+        font-size: 20px;
+        margin-left: 150px;
+        border-radius: 7px;
+        border: 2px;
+
+       }
+       #Rsubmit[type=submit]:hover
+       {
+          background-color:#0059b3;
+          color:white;
+          cursor: pointer;
+       }
+       
