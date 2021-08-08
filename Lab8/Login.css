@@ -1,0 +1,181 @@
+#header1
+{
+    text-align: center;
+    color: #334d4d;
+}
+#header2
+{
+
+text-align: center;
+color:#334d4d;
+margin-top:-15px;
+
+}
+#bar
+{
+    list-style-type: none;
+    background-color:#334d4d ;
+    height: 35px;
+    font-size: 22px;
+    font: bold;
+    color:white;
+    
+}
+#home
+{
+    display: inline;
+
+}
+#login,#registration
+{
+    display: inline;
+   
+    margin-left: 620px;
+      
+}
+#rref
+{
+    color: white;
+    text-decoration:none;
+}
+#href
+{
+    color: white;
+    text-decoration:none;
+}
+.login
+       {
+        background-color:#334d4d;
+        width: 395px;
+        height: 380px;
+        margin-left:550px;
+        margin-top: 1px;
+        border-radius: 35px;
+        border: 2px;
+
+
+       }
+       #loginheading
+       {
+         
+       text-align: center;
+       color: white;
+       margin-top: 80px;
+
+       } 
+       
+       #Lusername
+       {
+       
+       color: white;
+       font-size: 23px;
+       margin-left: 50px;
+
+       }
+       #Iusername[type=text]
+       {
+       
+       height: 35px;
+       width: 290px;
+       margin-left: 50px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+       #Lpassword
+       {
+       
+       color: white;
+       font-size: 23px;
+       margin-left: 50px;
+
+       }
+       #Ipassword[type=password]
+       {
+       
+       height: 35px;
+       width: 290px;
+       margin-left: 50px;
+       border-radius: 8px;
+       border: 2px;
+
+       }
+       #Isubmit[type=submit]
+       {
+           height: 30px;
+           width: 70px;
+           font-size: 20px;
+           margin-left: 160px;
+           border-radius: 7px;
+           border: 2px;
+       }
+       #Isubmit[type=submit]:hover
+       {
+          background-color:#0059b3;
+          color:white;
+          cursor: pointer;
+       }
+       #forgotPassword
+       {
+         list-style-type: none;
+         margin-left:35px;
+         height: -10px;
+       }
+       #fPassword
+       {
+         display: inline;
+       }
+       #sUp
+       {
+         display: inline;
+       }
+       #fpref
+       {
+         color: white;
+         font-size:20px;
+         text-decoration:none;
+         padding: 2px;
+       }
+       #suref
+       {
+         color: white;
+         font-size:20px;
+         text-decoration:none;
+         padding: 2px;
+       }
+       #fpref:hover
+       {
+         color:#000d1a;
+       }
+        #suref:hover
+       {
+         color:#000d1a;
+       }
+       .navbar-brand
+       {
+         font-size: 160%;
+         
+       }
+       .nav-item
+       {
+        font-size: 120%
+       }
+
+       /* new css ....................*/
+.form_holder{
+    height: 90vh;
+    width: 100vw;
+} 
+
+.login_form{
+  
+  width: 600px;
+  background-color: #334d4df5;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 4px rgba(128, 128, 128, 0.479);
+}
+
+
+
+
+
