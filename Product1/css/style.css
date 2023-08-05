@@ -1,0 +1,66 @@
+ body{
+ margin:0;
+ padding:0;
+ }
+
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  background-color:aqua;
+  color:white;
+  padding:0 10px;
+}
+
+.logo{
+	/* color:red; */
+}
+
+ul{
+	display:flex;
+	list-style: none;
+}
+
+.ul-item li a{
+  text-decoration:none;
+  margin-right:20px;
+  color:white;
+  font-size:20px;
+}
+
+.ul-item li a:hover{
+	color:green;
+}
+
+.ul-right-item li a{
+  text-decoration:none;
+  margin-right:20px;
+  color:white;
+  border:1px solid blue;
+  background-color:green;
+  padding:8px;
+	
+}
+
+.ul-right-item li a:hover{
+	background-color:aqua;
+	color:green;
+	
+}
+
+.dropdowitem{
+	width: 169px;
+    height: 22px;
+}
+
+/*catagory css */
+.cheader{
+	padding: 0 20px;
+}
+
+
+/*purchase css*/
+.input-area{
+	margin-left:20px;
+}
+
